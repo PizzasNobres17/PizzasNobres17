@@ -1,4 +1,4 @@
-# Nosso Cardápio!
+# Nosso Carpadio!😋
 
 
 🍕A NOVA MODO DA CASA: picanha picada, cebola, pimentão, tomate e bacon.
@@ -28,5 +28,30 @@
 🍕 STROGONOFF DE FRANGO: Strogonoff de frango e batata palha.
    
 
-(lembramos que todas as pizzas vem acompanhada com queijo)
+(OBS: lembramos que todas as pizzas vem acompanhada com queijo)
 
+
+# Valores/Tamanhos/Sabores.😋
+
+- BROTO/1SABOR.
+
+         R$40,00
+
+- MÉDIA/2SABORES.
+
+        R$43,00 
+
+- GRANDE/3SABORES.
+
+        R$46,00
+
+- BIG/4SABORES.
+
+          R$49,00
+
+- GIGANTE/5SABORES.
+
+        R$57,00
+
+
+(OBS: se preferirem acrescentar algum item a mais na pizza será conta 2R$ a mais)
