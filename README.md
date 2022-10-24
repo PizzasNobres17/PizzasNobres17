@@ -1,21 +1,28 @@
-# Nossa Loja!
+# Nosso Cardápio!
 
 
+🍕A NOVA MODO DA CASA: picanha picada, cebola, pimentão, tomate e bacon.
 
--Olá, Tudo bem? Nós somos a @PizzariaNobres17. 
+🍕BOLANHESA: molho de carne moída e parmesão.
 
--Desde 2011 trazendo diversor sabores e alegria para sua familia!
+🍕CAMARÃO: camarão ao molho.
 
--Bateu a fome?
+🍕HAMBUEGUESA: hambúrguer, alface e batata palha.
 
--Entregamos delivery!
+🍕LOMBO C/ CHAMPIGNONS: lombo e champignons.
 
--Direto do forno, para sua casa!
+🍕NOBRE: frango, milho, ervilha, palmito, tomate seco e champignons.
 
--Não perca mais tempo, ligue para o fone [41] 3626-2436!
+🍕PEPERONI: peperoni e azeitona.
 
--Ou nos encontre no INSTAGRAM/FACEBOOK @PIZZARIANOBRES17 / @PIZZANOBRES16
+🍕PICANHA PICADA: picanha picada.
 
--Se preferir estamos na Av. Brasil, 610 loja 02-centro- CEP 83800-000- Mandirituba-PR
+🍕PIZZA HOT: peperoni, milho, tomate seco, cebola, pimentão, alho e azeitona.
 
--Veja e reveja nossos cardapio no link @github.com/PizzasNobres17
+🍕SALAMINHO: salame italiano.
+
+🍕SALAMINHO ESPECIAL: salame, Champions, palmito e catupiry.
+
+🍕STROGONOFF DE CARNE: Strogonoff de carne e batata palha.
+
+🍕 STROGONOFF DE FRANGO: Strogonoff de frango e batata palha.
