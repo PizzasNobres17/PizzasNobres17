@@ -26,3 +26,7 @@
 🍕STROGONOFF DE CARNE: Strogonoff de carne e batata palha.
 
 🍕 STROGONOFF DE FRANGO: Strogonoff de frango e batata palha.
+   
+
+(lembramos que todas as pizzas vem acompanhada com queijo)
+
