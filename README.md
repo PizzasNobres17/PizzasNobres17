@@ -54,4 +54,4 @@
         R$57,00
 
 
-(OBS: se preferirem acrescentar algum item a mais na pizza será conta 2R$ a mais)
+(OBS: se preferirem acrescentar algum item a mais na pizza será cobrado 2R$ a mais)
